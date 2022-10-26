@@ -1,0 +1,46 @@
+# git 사용법 정리
+
+>원격저장소  
+1. 원격저장소 등록    
+<a href="#"><img src= "./images/원격저장소 생성.jpg"
+ width="200px" alt="sample image"></a>   
+ 깃허브에서 새로운 repository를 생성
+
+2. 원격저장소 추가  
+<a href="#"><img src= "./images/원격저장소 추가.jpg"
+ width="200px" alt="sample image"></a>  
+새로운 저장소를 추가함
+
+3. 원격저장소 내려받기  
+<a href="#"><img src= "./images/원격저장소 내려받기.jpg"
+ width="200px" alt="sample image"></a>  
+ 다른 저장소의 내용 내려받기
+
+>브랜치  
+1. 브랜치 생성  
+<a href="#"><img src= "./images/브랜치 생성.jpg"
+ width="200px" alt="sample image"></a>  
+ develop 브랜치 생성
+
+2. 브랜치 변경  
+<a href="#"><img src= "./images/브랜치 변경.jpg"
+ width="200px" alt="sample image"></a>  
+ develop 브랜치 변경
+
+3. 브랜치 삭제  
+<a href="#"><img src= "./images/브랜치 삭제.jpg"
+ width="200px" alt="sample image"></a>  
+ 브랜치 삭제
+  
+>저장소에 데이터 올리기 (git bash 사용)
+* add  
+<a href="#"><img src= "./images/add.jpg"
+ width="200px" alt="sample image"></a>
+
+* commit  
+<a href="#"><img src= "./images/commit.jpg"
+ width="200px" alt="sample image"></a>
+* push  
+<a href="#"><img src= "./images/push.jpg"
+ width="200px" alt="sample image"></a>
+* pull  
